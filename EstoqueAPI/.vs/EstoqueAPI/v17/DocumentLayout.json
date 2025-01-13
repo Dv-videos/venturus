@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\devs\\venturus\\venturus\\EstoqueAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AE2983-FF66-4DFB-8679-46DA9A859236}|EstoqueAPI\\EstoqueAPI.csproj|c:\\devs\\venturus\\venturus\\estoqueapi\\estoqueapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3AE2983-FF66-4DFB-8679-46DA9A859236}|EstoqueAPI\\EstoqueAPI.csproj|solutionrelative:estoqueapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AE2983-FF66-4DFB-8679-46DA9A859236}|EstoqueAPI\\EstoqueAPI.csproj|c:\\devs\\venturus\\venturus\\estoqueapi\\estoqueapi\\application\\handlers\\getprodutobyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AE2983-FF66-4DFB-8679-46DA9A859236}|EstoqueAPI\\EstoqueAPI.csproj|solutionrelative:estoqueapi\\application\\handlers\\getprodutobyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\devs\\venturus\\venturus\\EstoqueAPI\\EstoqueAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EstoqueAPI\\appsettings.json",
+              "ToolTip": "C:\\devs\\venturus\\venturus\\EstoqueAPI\\EstoqueAPI\\appsettings.json",
+              "RelativeToolTip": "EstoqueAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T04:32:41.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProdutoByIdHandler.cs",
+              "DocumentMoniker": "C:\\devs\\venturus\\venturus\\EstoqueAPI\\EstoqueAPI\\Application\\Handlers\\GetProdutoByIdHandler.cs",
+              "RelativeDocumentMoniker": "EstoqueAPI\\Application\\Handlers\\GetProdutoByIdHandler.cs",
+              "ToolTip": "C:\\devs\\venturus\\venturus\\EstoqueAPI\\EstoqueAPI\\Application\\Handlers\\GetProdutoByIdHandler.cs",
+              "RelativeToolTip": "EstoqueAPI\\Application\\Handlers\\GetProdutoByIdHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:08:41.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

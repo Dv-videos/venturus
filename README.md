@@ -37,6 +37,11 @@ As tabelas do banco de dados necessárias para a aplicação estão definidas no
 - **xUnit** para testes unitários
 - **Moq** e **FluentAssertions** para validação de comportamento em testes
 
+#Pasta do projeto
+A solução e o projeto EstoqueaAPI,encontram-se nas seguintes pastas:
+EstoqueAPI/EstoqueAPI.sln
+EstoqueAPI/EstoqueAPI/EstoqueAPI.csproj
+
 ## Processo de Desenvolvimento
 Este projeto foi elaborado utilizando uma abordagem iterativa com o suporte de inteligência artificial **ChatGPT** para:
 - Gerar modelos iniciais de código.
@@ -93,6 +98,13 @@ EstoqueAPI
 As tabelas do banco de dados necessárias para a aplicação estão definidas no arquivo `Data/Scripts/CreateTables.sql`. Certifique-se de executar o script para configurar o banco de dados antes de iniciar a aplicação.
 
 ---
+
+## Conexão com o Banco de Dados
+Para conectar com o banco de dados Mysql corretamente, altere as credencias no arquivo:
+appsettings.json
+
+---
+
 
 ## **Dependências**
 
