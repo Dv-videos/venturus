@@ -291,6 +291,12 @@ A aplicação será iniciada e estará disponível em: `http://localhost:5149`.
 2. **Erro**: Verifica cenários de falha como ausência de produtos, quantidade insuficiente e IDs inexistentes.
 3. **Validação**: Testa a mensagem e o status HTTP para diferentes casos.
 
+### **Executando os Testes**
+
+```bash
+# Execute os testes unitários
+ dotnet test
+```
 ---
 ## Decisõs Técnicas
 Algumas decisões técnicas importantes que vamos destacar:
@@ -311,12 +317,7 @@ Algumas decisões técnicas importantes que vamos destacar:
      - **Infrastructure**: Acesso ao banco de dados e serviços auxiliares.
      - **API**: Controladores e configuração de middlewares.
 
-### **Executando os Testes**
 
-```bash
-# Execute os testes unitários
- dotnet test
-```
 
 
 ## Observações Finais
